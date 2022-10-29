@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nklya_?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-I am an Infrastructure engineer with Linux/FreeBSD ops background. Perfectionist a little bit and IaC fan.
+I am an Infrastructure engineer with Linux/FreeBSD ops background. Perfectionist a little bit and huge IaC fan.
 
 ## 🪴 I like to
 
